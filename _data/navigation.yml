@@ -1,7 +1,7 @@
 # main links links
 main:
-  - title: "Sample Navigation Link"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/navigation/
+  - title: "Work"
+    url: http://www.manimaran.net
 
-  - title: "Sample Navigation Link 2"
-    url: /
+  - title: "Blog"
+    url: /blog
