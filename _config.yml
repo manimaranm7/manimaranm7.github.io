@@ -77,19 +77,19 @@ analytics:
 
 # Site Author
 author:
-  name             : "Mani"
+  name             : "Manimaran Manivannan"
   avatar           : "bio-photo.jpg"
-  bio              : "I am a software developer."
-  location         : "London, United Kingdom"
+  bio              : "My name is Mani and I am a software developer in London"
+  location         : "United Kingdom"
   email            :
-  uri              :
+  uri              : "http://www.manimaran.net"
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
   facebook         :
   foursquare       :
-  github           :
+  github           : "http://github.com/manimaranm7"
   google_plus      :
   keybase          :
   instagram        :
@@ -100,7 +100,7 @@ author:
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
   steam            :
   tumblr           :
-  twitter          :
+  twitter          : "http://twitter.com/@manicodes"
   vine             :
   weibo            :
   xing             :
