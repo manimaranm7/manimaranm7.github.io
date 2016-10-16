@@ -2,7 +2,8 @@
 layout: single
 title: Making Git Bash, SSH only GIT Remote, Pageant dance together
 date: 2014-03-06 16:43
-author: peakbyte
+author: Mani
+author_profile: true
 comments: true
 categories: [Pageant, Problem, PuTTy SSH client, Solution, SSH]
 ---
