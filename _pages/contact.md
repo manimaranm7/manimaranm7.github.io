@@ -1,5 +1,5 @@
 ---
 layout: single
 author_profile: false
-title: Get in touch
+title: Get in Touch
 ---
