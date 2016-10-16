@@ -1,7 +1,7 @@
 # main links links
 main:
   - title: "Work"
-    url: http://www.manimaran.net
+    url: /work
 
   - title: "Blog"
-    url: /
+    url: /blog
