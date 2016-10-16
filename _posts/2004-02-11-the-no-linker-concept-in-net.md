@@ -1,7 +1,7 @@
 ---
 layout: single
 title: The No-Linker concept in .NET
-date: 2004-02-11 22:05
+date: '2004-02-11 22:05'
 author: peakbyte
 comments: true
 categories: [BackToBasics, VM.DotNET]

@@ -1,7 +1,7 @@
 ---
 layout: single
 title: The Daily Pattern - General work culture related blog entry
-date: 2004-05-13 02:20
+date: '2004-05-13 02:20'
 author: peakbyte
 comments: true
 categories: [BackToBasics, Misc]

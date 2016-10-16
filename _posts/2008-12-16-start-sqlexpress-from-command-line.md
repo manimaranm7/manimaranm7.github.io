@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Start SQL Server from Command Line
-date: 2008-12-16 12:39
+date: '2008-12-16 12:39'
 author: peakbyte
 comments: true
 categories: [DB.SQLServer, Problem, Solution]

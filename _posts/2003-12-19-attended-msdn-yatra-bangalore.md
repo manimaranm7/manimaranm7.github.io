@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Attended MSDN Yatra! Bangalore
-date: 2003-12-19 13:58
+date: '2003-12-19 13:58'
 author: peakbyte
 comments: true
 categories: [BackToBasics, KM.Team]

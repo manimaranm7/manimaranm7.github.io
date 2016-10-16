@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Finally, A Good Bye to Visual SourceSafe!
-date: 2004-04-26 21:01
+date: '2004-04-26 21:01'
 author: peakbyte
 comments: true
 categories: [Problem, Solution, SourceControl.VSS]

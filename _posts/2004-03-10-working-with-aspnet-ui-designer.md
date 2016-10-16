@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Working with ASP.NET UI Designer!
-date: 2004-03-10 23:14
+date: '2004-03-10 23:14'
 author: peakbyte
 comments: true
 categories: [FX.Web.ASPNET, Problem, Solution]

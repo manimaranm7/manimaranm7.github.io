@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Basic Integrated App using UIPAB and Forms Authentication
-date: 2004-02-14 09:12
+date: '2004-02-14 09:12'
 author: peakbyte
 comments: true
 categories: [Arch.Web.BestPractice, Problem, Solution]

@@ -1,7 +1,7 @@
 ---
 layout: single
 title: LINQ-SQL Nuggeting
-date: 2008-12-16 11:54
+date: '2008-12-16 11:54'
 author: peakbyte
 comments: true
 categories: [Lang.LINQ, Lang.SQL, Solution]

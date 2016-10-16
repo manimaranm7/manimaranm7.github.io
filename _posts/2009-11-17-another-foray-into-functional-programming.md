@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Another Foray into Functional Programming
-date: 2009-11-17 01:20
+date: '2009-11-17 01:20'
 author: peakbyte
 comments: true
 categories: [BackToBasics, Lang.*, Lang.Erlang, Lang.F#]

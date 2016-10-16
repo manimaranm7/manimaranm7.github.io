@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Back to formal education
-date: 2004-10-24 17:33
+date: '2004-10-24 17:33'
 author: peakbyte
 comments: true
 categories: [BackToBasics, KM.University]

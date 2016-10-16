@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Web client software factory - Hands-on-lab
-date: 2008-09-26 11:35
+date: '2008-09-26 11:35'
 author: peakbyte
 comments: true
 categories: [Arch.Web, FX.Web.ASPNET, Solution]

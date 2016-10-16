@@ -1,7 +1,7 @@
 ---
 layout: single
 title: A different advantage of multi-language support in .NET
-date: 2004-07-17 21:47
+date: '2004-07-17 21:47'
 author: peakbyte
 comments: true
 categories: [KM.Team, Lang.C#, Lang.VBDotNet, Solution, VM.DotNET]

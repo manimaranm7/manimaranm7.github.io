@@ -1,7 +1,7 @@
 ---
 layout: single
 title: ASP.NET MVC1.0 installer and VS2008 AddOns
-date: 2010-05-25 13:15
+date: '2010-05-25 13:15'
 author: peakbyte
 comments: true
 categories: [Uncategorized]

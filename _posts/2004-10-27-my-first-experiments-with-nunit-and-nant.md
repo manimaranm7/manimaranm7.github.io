@@ -1,7 +1,7 @@
 ---
 layout: single
 title: My first experiments with NUnit and NAnt!
-date: 2004-10-27 21:11
+date: '2004-10-27 21:11'
 author: peakbyte
 comments: true
 categories: [Solution, Tools.Build, Tools.Testing]

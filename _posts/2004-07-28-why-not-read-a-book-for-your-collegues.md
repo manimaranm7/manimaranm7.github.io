@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Why not read a book for your collegues!
-date: 2004-07-28 10:42
+date: '2004-07-28 10:42'
 author: peakbyte
 comments: true
 categories: [KM.Team, Solution]

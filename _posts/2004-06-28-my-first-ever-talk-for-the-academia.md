@@ -1,7 +1,7 @@
 ---
 layout: single
 title: My First Ever Talk for the Academia
-date: 2004-06-28 22:27
+date: '2004-06-28 22:27'
 author: peakbyte
 comments: true
 categories: [BackToBasics, KM.Team]

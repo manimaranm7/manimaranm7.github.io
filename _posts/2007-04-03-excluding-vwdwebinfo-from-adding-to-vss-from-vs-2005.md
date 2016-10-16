@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Excluding vwd.webinfo from adding to VSS from VS 2005
-date: 2007-04-03 10:58
+date: '2007-04-03 10:58'
 author: peakbyte
 comments: true
 categories: [Problem, SourceControl.VSS, Tools.IDE]

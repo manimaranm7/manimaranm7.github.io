@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Using CVS for SourceControl
-date: 2003-12-23 17:53
+date: '2003-12-23 17:53'
 author: peakbyte
 comments: true
 categories: [Problem, Solution, SourceControl, SourceControl.CVS]

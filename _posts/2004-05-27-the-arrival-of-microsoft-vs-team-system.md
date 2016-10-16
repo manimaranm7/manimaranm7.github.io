@@ -1,7 +1,7 @@
 ---
 layout: single
 title: The arrival of Microsoft VS Team System
-date: 2004-05-27 15:33
+date: '2004-05-27 15:33'
 author: peakbyte
 comments: true
 categories: [Solution, SourceControl.TFS]

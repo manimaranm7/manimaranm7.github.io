@@ -1,7 +1,7 @@
 ---
 layout: single
 title: ASP.NET Application Hosting
-date: 2004-01-07 21:26
+date: '2004-01-07 21:26'
 author: peakbyte
 comments: true
 categories: [FX.Web.ASPNET, Solution]

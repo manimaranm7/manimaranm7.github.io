@@ -1,7 +1,7 @@
 ---
 layout: single
 title: CLI and .NET
-date: 2003-12-31 21:52
+date: '2003-12-31 21:52'
 author: peakbyte
 comments: true
 categories: [BackToBasics, KM.Team, VM.DotNET, VM.SSCLI]

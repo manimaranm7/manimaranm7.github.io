@@ -1,7 +1,7 @@
 ---
 layout: single
 title: A Virtual Day with Virtual PC 2004
-date: 2005-01-25 23:34
+date: '2005-01-25 23:34'
 author: peakbyte
 comments: true
 categories: [OS.Tools, Solution]

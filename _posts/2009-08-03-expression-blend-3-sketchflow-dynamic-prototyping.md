@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Expression Blend 3 + SketchFlow + Dynamic Prototyping
-date: 2009-08-03 13:03
+date: '2009-08-03 13:03'
 author: peakbyte
 comments: true
 categories: [Design, KM.Design, Tools.Design]

@@ -1,7 +1,7 @@
 ---
 layout: single
 title: TIP - Copy/Paste Columns to Multiple Tables in SQL Server
-date: 2009-09-19 15:29
+date: '2009-09-19 15:29'
 author: peakbyte
 comments: true
 categories: [DB.SQLServer, Problem, Solution, Tools.SQL]

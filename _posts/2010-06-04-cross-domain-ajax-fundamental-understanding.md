@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Cross-Domain, Ajax Fundamental understanding
-date: 2010-06-04 11:02
+date: '2010-06-04 11:02'
 author: peakbyte
 comments: true
 categories: [FX.Web.ASPNET, Problem, Solution]

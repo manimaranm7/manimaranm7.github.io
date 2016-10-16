@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Learning to Program the Ruby way
-date: 2006-05-20 20:50
+date: '2006-05-20 20:50'
 author: peakbyte
 comments: true
 categories: [BackToBasics, Lang.Ruby]

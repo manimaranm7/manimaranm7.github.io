@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Remote access of SQL Server from Host Machine
-date: 2008-12-17 12:41
+date: '2008-12-17 12:41'
 author: peakbyte
 comments: true
 categories: [DB.SQLServer, Problem, Solution]

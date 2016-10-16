@@ -1,7 +1,7 @@
 ---
 layout: single
 title: From VSS to CVS; From CVS to SVN
-date: 2005-02-01 10:21
+date: '2005-02-01 10:21'
 author: peakbyte
 comments: true
 categories: [Design, Problem, Solution, SourceControl.CVS, SourceControl.SVN, SourceControl.VSS]

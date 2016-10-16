@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Training the non-techies on .NET!
-date: 2004-07-10 00:54
+date: '2004-07-10 00:54'
 author: peakbyte
 comments: true
 categories: [BackToBasics, KM.Team]

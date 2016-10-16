@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Getting started with SaSS, Foundation, Compass on Windows, for PHP web application development
-date: 2013-01-28 22:53
+date: '2013-01-28 22:53'
 author: peakbyte
 comments: true
 categories: [compass, foundation, php, Problem, sass, Solution, Tutorial, webmatrix, windows]

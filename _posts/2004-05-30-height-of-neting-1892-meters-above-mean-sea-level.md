@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Height of .NETing! (1892 meters Above Mean Sea Level)
-date: 2004-05-30 17:26
+date: '2004-05-30 17:26'
 author: peakbyte
 comments: true
 categories: [BackToBasics, Misc]

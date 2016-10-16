@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Tapovanam - application design and architecture
-date: 2008-10-02 09:28
+date: '2008-10-02 09:28'
 author: peakbyte
 comments: true
 categories: [Arch.Web, Design, Problem]

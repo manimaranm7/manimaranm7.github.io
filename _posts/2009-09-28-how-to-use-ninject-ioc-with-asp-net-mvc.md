@@ -1,7 +1,7 @@
 ---
 layout: single
 title: How to use Ninject IoC with ASP.NET MVC
-date: 2009-09-28 23:41
+date: '2009-09-28 23:41'
 author: peakbyte
 comments: true
 categories: [Tutorial]

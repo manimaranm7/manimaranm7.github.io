@@ -1,7 +1,7 @@
 ---
 layout: single
 title: My Kata - Forms Authentication
-date: 2004-02-11 22:15
+date: '2004-02-11 22:15'
 author: peakbyte
 comments: true
 categories: [FX.Web.ASPNET, Problem, Solution]
