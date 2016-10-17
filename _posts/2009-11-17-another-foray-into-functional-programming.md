@@ -1,9 +1,0 @@
----
-layout: single
-title: Another Foray into Functional Programming
-date: '2009-11-17 01:20'
-author: peakbyte
-comments: true
-categories: [BackToBasics, Lang.*, Lang.Erlang, Lang.F#]
----
-<p>VS2010 beta2 has come with F#. Not that I was not interested in Functional Programming before. I’ve had a go at Erlang nearly 6 months ago and must say that I loved it. But the prospect of Functional Programming with .NET CLR (or rather DLR) definitely gives F# a special place. </p>  <p>More over, the most familiar IDE of Visual Studio is simply wonderful. I must admit, I’ve not yet started doing my katas on F#, partly because the functional programming concepts need to be ingrained before moving ploughing ahead. So, watched a couple of interesting videos tonight.</p>  <p>First, on Channel9 tagged “Lecture Series”, “Functional Programming” that can be found here:</p>  <p><a href="http://channel9.msdn.com/shows/Going+Deep/Lecture-Series-Erik-Meijer-Functional-Programming-Fundamentals-Chapter-1/" target="_blank">http://channel9.msdn.com/shows/Going+Deep/Lecture-Series-Erik-Meijer-Functional-Programming-Fundamentals-Chapter-1/</a></p>  <p>The second was with my favourite teacher Venkat Subramaniam in it, with my favourite host Carl Franklin, on my favourite DotNet TV show -&gt; DNRtv. It can be found here:</p>  <p><a title="http://is.gd/4WGP2" href="http://is.gd/4WGP2" target="_blank">http://is.gd/4WGP2</a></p>  <p>Got to say I enjoyed it despite the brilliant London weather!</p>  <p>Some more resources:</p>  <ul>   <li>F# CTP for VS2008</li>    <blockquote>     <p><a href="http://fsharp.net" target="_blank">http://fsharp.net</a></p>   </blockquote>    <li>Erlang tagged videos on Best Tech Videos</li>    <blockquote>     <p><a href="http://www.bestechvideos.com/tag/erlang" target="_blank">http://www.bestechvideos.com/tag/erlang</a></p>   </blockquote> </ul>
